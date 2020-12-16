@@ -1,4 +1,5 @@
-### Hi there 👋
+![GauravGandhi's Profile](https://github-readme-stats.vercel.app/api?username=gggauravgandhi&count_private=true&show_icons=true&disable_animations=true)
+
 
 <!--
 **gggauravgandhi/gggauravgandhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
