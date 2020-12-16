@@ -1,4 +1,4 @@
-![GauravGandhi's Profile](https://github-readme-stats.vercel.app/api?username=gggauravgandhi&count_private=true&show_icons=true&disable_animations=true&theme=react)
+![GauravGandhi's Profile](https://github-readme-stats.vercel.app/api?username=gggauravgandhi&count_private=true&show_icons=true&disable_animations=true&theme=dark&hide_border=true)
 
 
 <!--
