@@ -14,7 +14,7 @@
 
 ---
 
-![GauravGandhi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gggauravgandhi&hide=html,jupyter+notebook,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true)
+![GauravGandhi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gggauravgandhi&hide=html,jupyter+notebook,css&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true)
 
 
 
